@@ -33,8 +33,8 @@
   <a href="https://www.linkedin.com/in/carlos-eduardo-marchonatto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:carlosmarchonatto@gmail.com?subject=Olá!&body=Gostaria%20de%20falar%20com%20você." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carlosmarchonatto@gmail.com&su=Olá!&body=Gostaria%20de%20falar%20com%20você." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/cadumarchonatto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
