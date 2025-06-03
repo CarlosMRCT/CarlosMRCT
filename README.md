@@ -1,4 +1,4 @@
-<h2 align="left">👋Olá! Me chamo Carlos, sou um dev e estudante de tecnologia, apaixonado por QA e Game Development.</h2>
+<h2 align="left">👋Olá! Me chamo Carlos, sou um QA estudante de ADS e apaixonado por Game Development.</h2>
 
 ###
 
